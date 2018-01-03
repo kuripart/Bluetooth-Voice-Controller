@@ -1,6 +1,6 @@
 ## BACKGROUND
 
-App made with MIT App Invventor
+App made with MIT App Inventor
 
 
 ## USE 
