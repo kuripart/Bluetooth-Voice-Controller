@@ -13,6 +13,10 @@ Send voice instructions by tapping on the Voice Image (Makes use of Google's Spe
 ## Installation of .apk file on Andoid Phone
 
 In the terminal install adb
+-----------------------------------------
 $ brew cask install android-platform-tools
+
+Connect device to computer and type in:
+------------------------------------------
 $ adb install <path to .apk file>
 
